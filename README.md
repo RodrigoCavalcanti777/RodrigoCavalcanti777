@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou Rodrigo Cavalcanti da Silva, sou formado no curso de Ciência da Computação pela universidade Maurício de Nassau e sou Analista de Testes de Software Jr. Atualmente estou em busca de uma vaga para desempenhar meu papel da melhor forma possível, garantindo o bom<br>rendimento da empresa. E meu objetivo pessoal é elevar o meu nível profissional, sempre me mantendo em desenvolvimento constante, aprendendo e me desenvolvendo cada vez mais.</p>
+<p align="left">Sou Rodrigo Cavalcanti da Silva, sou formado no curso de Ciência da Computação pela universidade Maurício de Nassau e sou Analista de Testes de Software Jr. Atualmente estou em busca de uma vaga para desempenhar meu papel da melhor forma possível, garantindo o bom rendimento da empresa. E meu objetivo pessoal é elevar o meu nível profissional, sempre me mantendo em desenvolvimento constante, aprendendo e me desenvolvendo cada vez mais.</p>
 
 ###
 
